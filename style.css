@@ -1,0 +1,8 @@
+.body{
+    background-image: url('./img/1.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-clip: border-box;
+    backdrop-filter: 20px;
+    color: white;
+}
